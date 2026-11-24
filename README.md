@@ -2,7 +2,7 @@
 
 Modelo para estimar la probabilidad de que un cliente caiga en mora con su préstamo, desarrollado para la competencia del programa **GCI World** del Matsuo-Iwasawa Laboratory (Universidad de Tokio), basada en el problema *Home Credit Default Risk*.
 
-**Resultado: Top 10 % entre ~6 000 participantes.** AUC en el leaderboard: [completar]
+**Resultado: Top 10 % entre ~5 000 participantes.**
 
 | | |
 | --- | --- |
