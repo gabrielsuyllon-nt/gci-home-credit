@@ -70,6 +70,6 @@ Para ejecutarlo fuera de Colab, instala las dependencias con `pip install -r req
 
 ## Fuentes y créditos
 
-Las razones financieras y las combinaciones de `EXT_SOURCE` se inspiran en notebooks públicos de la competencia original de Kaggle *Home Credit Default Risk* (2018). La tasa implícita usa la fórmula estándar de amortización francesa. El notebook se elaboró con ayuda de Claude (Anthropic).
+Las razones financieras y las combinaciones de `EXT_SOURCE` se inspiran en notebooks públicos de la competencia original de Kaggle *Home Credit Default Risk* (2018). La tasa implícita usa la fórmula estándar de amortización francesa.
 
 Autor: Gabriel David Toro Suyllon ([@gabrielsuyllon-nt](https://github.com/gabrielsuyllon-nt))
