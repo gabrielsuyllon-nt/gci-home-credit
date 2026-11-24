@@ -1,0 +1,15 @@
+# Datos de la competencia (no se pueden redistribuir)
+input/
+*.csv
+
+# Resultados intermedios y envíos generados por el notebook
+cache/
+output/
+*.pkl
+*.npz
+*.zip
+
+# Jupyter y sistema
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
