@@ -10,7 +10,7 @@ Modelo para estimar la probabilidad de que un cliente caiga en mora con su prés
 | Métrica | ROC-AUC |
 | Datos | 171 202 solicitudes de entrenamiento y 61 500 de prueba; 8,07 % de morosos |
 | Modelo final | Ensamble de LightGBM y CatBoost sobre dos vistas de los datos |
-| AUC de validación cruzada | **0,7695** (ensamble, 5 folds) |
+| AUC de validación cruzada | **0,7732** (ensamble, 5 folds) |
 
 ## Enfoque
 
